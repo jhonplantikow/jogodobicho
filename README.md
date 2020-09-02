@@ -1,3 +1,3 @@
 # Jogo Do Bicho
 
-1 - Coletar resultado do jogo e enviar no telegram
+1 - Coleta os resultados do site https://www.ojogodobicho.com/deu_no_poste.htm
